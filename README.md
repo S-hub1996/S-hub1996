@@ -6,8 +6,16 @@
 - 🌱 I’m currently learning ... Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="30" width="200">
+  <a xlink:href="https://github.com/Trilokia" target="_top">
+  <text y="39" font-family="Times, serif" fill="grey" font-size="1px">
+    @Trilokia
+  </text>
+  </a>
+</svg>
 <!---
 S-hub1996/S-hub1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
