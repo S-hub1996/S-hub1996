@@ -22,4 +22,3 @@
 S-hub1996/S-hub1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://medium.com/@shubhamkashayapverma/tata-1mg-masai-cw-project-130b95a5b2e3
