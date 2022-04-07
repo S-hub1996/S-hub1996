@@ -1,7 +1,8 @@
 
 <a href="https://app.daily.dev/shub_verma"><img src="https://api.daily.dev/devcards/acca171ba02d41a59f80bcc412838154.png?r=seq" width="400" alt="SHUBHAM VERMA's Dev Card"/></a>
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=S-hub1996" alt="Shubham" /> </h3>
-- 👋 Hi, I’m Shubham verma<br>
+
+<h1>👋 Hi, I’m Shubham verma  </h1><br>
 - 👀 I’m interested in ... Creating New things<br>
 - 🌱 I’m currently learning ... Full Stack Web Development<br>
 - 💞️ I’m looking to collaborate on ... <br>
