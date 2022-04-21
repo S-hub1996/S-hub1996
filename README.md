@@ -1,8 +1,16 @@
 
+<h1 align="center">🕉☮✝☯</h1>
+
+<h1 align="center">Hi , I'm Shubham Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  
+</h1>
 
 
-<h1>👋 Hi, I’m Shubham verma  </h1><br>
-<a href="https://app.daily.dev/shub_verma"><img src="https://api.daily.dev/devcards/acca171ba02d41a59f80bcc412838154.png?r=seq" width="400" alt="SHUBHAM VERMA's Dev Card"/></a>
+  <a align="center" href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=MASAI+SCHOOL;1500%2B+Hours+of+Coding+Experience;Data+Structure+Algorithm;MERN;Full+Stack+Web+Developer;"></img></a>   
+
+<br>
+<a align="right" href="https://app.daily.dev/shub_verma"><img align="center" src="https://api.daily.dev/devcards/acca171ba02d41a59f80bcc412838154.png?r=seq" width="400" alt="SHUBHAM VERMA's Dev Card"/></a>
+
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=S-hub1996" alt="Shubham" /> </h3>
 
 - 👀 I’m interested in ... Creating New things<br>
