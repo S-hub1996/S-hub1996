@@ -16,6 +16,7 @@
 <a href="https://www.linkedin.com/in/shubham-verma-78768a157/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Verma" height="50" width="50" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.instagram.com/sinner_since96/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shubham Verma" height="50" width="50" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
+<hr>
 <br><br>
 <p align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg"><img src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg" style="max-width: 100%;"></a>
