@@ -19,7 +19,8 @@
 - 📫 How to reach me ... mail at verma231996@gmail.com<br>
 
 <br>
-
+<h2>I learn code from:--</h2>
+<a href="https://masai-school.learnworlds.com/"><img src="https://lwfiles.mycourse.app/masai-school-public/283427801ef0376bad3f197fad544f38.png" height="50" width="100"></a>
 
 <br>
 <h1>Connect to me on :-</h1>
@@ -46,6 +47,8 @@
  <a href="https://slack.com/intl/en-in/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a>
 
 </p>
+
+
 <br>
 <br>
  <hr>
