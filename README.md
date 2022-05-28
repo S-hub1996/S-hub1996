@@ -14,9 +14,9 @@
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=S-hub1996" alt="Shubham" /> </h3>
 
 - 👀 I’m interested in ... Creating New things<br>
-- 🌱 I’m currently learning ... Full Stack Web Development<br>
-- 💞️ I’m looking to collaborate on ... <br>
-- 📫 How to reach me ... mail at verma231996@gmail.com<br>
+- 🌱 I’m currently learning ... Full-Stack Web Development<br>
+- 💞️ I’m looking to collaborate on ... starting up the engine🚂 <br>
+- 📫 How to reach me ... mail at sv78368326076@gmail.com<br>
 
 <br>
 <h2>I learn code from:--</h2>
