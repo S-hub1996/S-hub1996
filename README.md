@@ -19,9 +19,11 @@
 - 📫 How to reach me ... mail at sv78368326076@gmail.com<br>
 
 <br>
-<h2>I learn code from:--</h2>
-<a href="https://masai-school.learnworlds.com/"><img src="https://lwfiles.mycourse.app/masai-school-public/283427801ef0376bad3f197fad544f38.png" height="50" width="100"></a>
 
+<h2>I learn code from:--</h2>
+<p align="center" dir="auto">
+<a href="https://masai-school.learnworlds.com/"><img src="https://lwfiles.mycourse.app/masai-school-public/283427801ef0376bad3f197fad544f38.png" height="75" width="150"></a>
+</p>
 <br>
 <h1>Connect to me on :-</h1>
 <p align="center" dir="auto">
