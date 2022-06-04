@@ -49,10 +49,13 @@
  <a href="https://slack.com/intl/en-in/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a>
 
 </p>
+<hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=S-hub1996)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-hub1996&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
+[![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=S-hub1996&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <hr>
 
 <!---
