@@ -1,17 +1,26 @@
-
+![image](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png)
 <h1 align="center">🕉☮✝☯</h1>
 
 <h1 align="center">Hi , I'm Shubham Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+  <a href="https://shubham-verma-portfolio-sv.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+  
   
 </h1>
 
 
-  <a align="center" href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=MASAI+SCHOOL;1500%2B+Hours+of+Coding+Experience;Data+Structure+Algorithm;MERN;Full+Stack+Web+Developer;"></img></a>   
+ <a align="center" href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=MASAI+SCHOOL;1500%2B+Hours+of+Coding+Experience;Data+Structure+Algorithm;MERN;Full+Stack+Web+Developer;"></img></a>   
 
 <br>
 <a align="right" href="https://app.daily.dev/shub_verma"><img align="center" src="https://api.daily.dev/devcards/acca171ba02d41a59f80bcc412838154.png?r=seq" width="400" alt="SHUBHAM VERMA's Dev Card"/></a>
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=S-hub1996" alt="Shubham" /> </h3>
+
+
+![age](https://img.shields.io/badge/age-25-blue)
+![living](https://img.shields.io/badge/living-delhi,India-maroon)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+
 
 - 👀 I’m interested in ... Creating New things<br>
 - 🌱 I’m currently learning ... Full-Stack Web Development<br>
@@ -59,6 +68,10 @@
 <br>
 
  <hr>
+ 
+ ![image](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png)
+ 
+ 
 
 <!---
 S-hub1996/S-hub1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
