@@ -22,10 +22,9 @@
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
 
-- 👀 I’m interested in ... Creating New things<br>
-- 🌱 I’m currently learning ... Full-Stack Web Development<br>
-- 💞️ I’m looking to collaborate on ... starting up the engine🚂 <br>
-- 📫 How to reach me ... mail at sv78368326076@gmail.com<br>
+<h4  align="center" >
+A passionate Full-Stack Web Developer who loves to create smart and highly polished interfaces for the web 💻. I love learning new things every day and keeping up with new technologies. My interests range from technology to design.
+</h4>
 
 <br>
 
