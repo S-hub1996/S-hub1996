@@ -18,7 +18,7 @@
 
 
 ![age](https://img.shields.io/badge/age-25-blue)
-![living](https://img.shields.io/badge/living-delhi,India-maroon)
+![living](https://img.shields.io/badge/living-NewDelhi,India-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
 
