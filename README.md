@@ -2,7 +2,7 @@
 <h1 align="center">🕉☮✝☯</h1>
 
 <h1 align="center">Hi , I'm Shubham Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
+<h3 align="center">I code beautifully simple things and I love what I do When I'm not coding I'm still on my computer gaming 🎮</h2>
   <a href="https://shubham-verma-portfolio-sv.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
   
   
@@ -21,10 +21,6 @@
 ![living](https://img.shields.io/badge/living-NewDelhi,India-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
-
-<h4  align="center" >
-A passionate Full-Stack Web Developer who loves to create smart and highly polished interfaces for the web 💻. I love learning new things every day and keeping up with new technologies. My interests range from technology to design.
-</h4>
 
 <br>
 
