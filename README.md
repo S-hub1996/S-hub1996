@@ -2,12 +2,12 @@
 <h1 align="center">🕉☮✝☯</h1>
 
 <h1 align="center">Hi , I'm Shubham Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<h3 align="center">I code beautifully simple things and I love what I do When I'm not coding I'm still on my computer gaming 🎮</h2>
+
   <a href="https://shubham-verma-portfolio-sv.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
   
   
 </h1>
-
+<h3 align="center">I code beautifully simple things and I love what I do When I'm not coding I'm still on my computer gaming 🎮</h2>
 
  <a align="center" href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=MASAI+SCHOOL;1500%2B+Hours+of+Coding+Experience;Data+Structure+Algorithm;MERN;Full+Stack+Web+Developer;"></img></a>   
 
